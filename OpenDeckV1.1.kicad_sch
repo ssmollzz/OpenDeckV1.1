@@ -1,0 +1,27 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 7a6928e1-25e4-4c6a-b85b-8c6b4f7ab813)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Started 10/03/23, finished xx/xx/xx" (at 207.01 194.31 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 220c398c-d409-491c-9a67-1a04d4e09700)
+  )
+  (text "1.1" (at 269.24 194.31 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 223f5660-fe76-4e61-8991-dd441383f621)
+  )
+  (text "OpenDeck" (at 186.69 190.5 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 2a580dc9-1276-4189-9366-cd7158c5a542)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
